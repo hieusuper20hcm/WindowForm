@@ -1,0 +1,7 @@
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\bin\Debug\Bai2-buoi2.exe.config
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\bin\Debug\Bai2-buoi2.exe
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\bin\Debug\Bai2-buoi2.pdb
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\obj\Debug\Bai2-buoi2.csprojAssemblyReference.cache
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\obj\Debug\Bai2-buoi2.csproj.CoreCompileInputs.cache
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\obj\Debug\Bai2-buoi2.exe
+D:\18DH110631-BuiTheMinhHieu\Bai2-buoi2\obj\Debug\Bai2-buoi2.pdb
