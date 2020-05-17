@@ -1,0 +1,13 @@
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\bin\Debug\Bai1-buoi7.exe.config
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\bin\Debug\Bai1-buoi7.exe
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\bin\Debug\Bai1-buoi7.pdb
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1-buoi7.csprojAssemblyReference.cache
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Form1.resources
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Properties.Resources.resources
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1-buoi7.csproj.GenerateResource.cache
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1-buoi7.csproj.CoreCompileInputs.cache
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1-buoi7.exe
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1-buoi7.pdb
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Sua.resources
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Them.resources
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Xoa.resources
