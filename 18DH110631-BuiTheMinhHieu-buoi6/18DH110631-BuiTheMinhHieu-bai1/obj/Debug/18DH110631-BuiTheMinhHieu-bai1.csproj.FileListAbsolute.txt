@@ -5,3 +5,10 @@ D:\18DH110631-BuiTheMinhHieu-Buoi6\18DH110631-BuiTheMinhHieu-bai1\18DH110631-Bui
 D:\18DH110631-BuiTheMinhHieu-Buoi6\18DH110631-BuiTheMinhHieu-bai1\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.csproj.CoreCompileInputs.cache
 D:\18DH110631-BuiTheMinhHieu-Buoi6\18DH110631-BuiTheMinhHieu-bai1\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.exe
 D:\18DH110631-BuiTheMinhHieu-Buoi6\18DH110631-BuiTheMinhHieu-bai1\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.pdb
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\bin\Debug\18DH110631-BuiTheMinhHieu-bai1.exe.config
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\bin\Debug\18DH110631-BuiTheMinhHieu-bai1.exe
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\bin\Debug\18DH110631-BuiTheMinhHieu-bai1.pdb
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.csprojAssemblyReference.cache
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.csproj.CoreCompileInputs.cache
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.exe
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi6\18DH110631-BuiTheMinhHieu-bai1\obj\Debug\18DH110631-BuiTheMinhHieu-bai1.pdb

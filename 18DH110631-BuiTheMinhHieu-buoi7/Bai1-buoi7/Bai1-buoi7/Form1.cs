@@ -88,6 +88,14 @@ namespace Bai1_buoi7
             Xoa.Show();
             Xoa.FormClosed += new FormClosedEventHandler(OnCloseForm);
         }
+
+        private void btnDatHang_Click(object sender, EventArgs e)
+        {
+            this.Enabled = false;
+            MSDH MSDH = new MSDH();
+            MSDH.Show();
+            MSDH.FormClosed += new FormClosedEventHandler(OnCloseForm);
+        }
     }
 }
 

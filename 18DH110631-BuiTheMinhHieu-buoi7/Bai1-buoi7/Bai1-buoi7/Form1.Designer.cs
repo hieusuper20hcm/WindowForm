@@ -32,6 +32,7 @@
             this.btnThem = new System.Windows.Forms.Button();
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
+            this.btnDatHang = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listView1
@@ -46,7 +47,7 @@
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(92, 301);
+            this.btnThem.Location = new System.Drawing.Point(21, 301);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 1;
@@ -56,7 +57,7 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Location = new System.Drawing.Point(245, 301);
+            this.btnXoa.Location = new System.Drawing.Point(192, 301);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 2;
@@ -66,7 +67,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.Location = new System.Drawing.Point(396, 301);
+            this.btnSua.Location = new System.Drawing.Point(338, 301);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 3;
@@ -74,11 +75,22 @@
             this.btnSua.UseVisualStyleBackColor = true;
             this.btnSua.Click += new System.EventHandler(this.btnSua_Click);
             // 
+            // btnDatHang
+            // 
+            this.btnDatHang.Location = new System.Drawing.Point(491, 301);
+            this.btnDatHang.Name = "btnDatHang";
+            this.btnDatHang.Size = new System.Drawing.Size(75, 23);
+            this.btnDatHang.TabIndex = 4;
+            this.btnDatHang.Text = "Đặt hàng";
+            this.btnDatHang.UseVisualStyleBackColor = true;
+            this.btnDatHang.Click += new System.EventHandler(this.btnDatHang_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnDatHang);
             this.Controls.Add(this.btnSua);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnThem);
@@ -96,6 +108,7 @@
         private System.Windows.Forms.Button btnThem;
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Button btnSua;
+        private System.Windows.Forms.Button btnDatHang;
     }
 }
 

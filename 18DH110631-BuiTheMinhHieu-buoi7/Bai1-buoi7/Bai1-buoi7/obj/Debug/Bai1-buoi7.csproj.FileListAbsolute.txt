@@ -11,3 +11,5 @@ D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buo
 D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Sua.resources
 D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Them.resources
 D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.Xoa.resources
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.DatHang.resources
+D:\18DH110631-BuiTheMinhHieu\18DH110631-BuiTheMinhHieu-buoi7\Bai1-buoi7\Bai1-buoi7\obj\Debug\Bai1_buoi7.MSDH.resources

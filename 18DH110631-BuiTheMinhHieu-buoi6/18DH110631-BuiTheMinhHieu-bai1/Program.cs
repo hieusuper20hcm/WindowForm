@@ -67,9 +67,9 @@ namespace _18DH110631_BuiTheMinhHieu_bai1
             DanhSachNuoc(thucuong);
             //ThemNuoc(thucuong);
             //XoaNuoc(thucuong);
-            //ChinhSua(thucuong);
-            DonHang donHang1 = new DonHang();
-            DatHang(donHang1);
+            ChinhSua(thucuong);
+            //DonHang donHang1 = new DonHang();
+            //DatHang(donHang1);
             
 
         }
